@@ -3,5 +3,5 @@ def say_hello(name="Ruby programmer")
 end
 
 
-say_hello("Ruby programmer")
+say_hello
 
