@@ -3,6 +3,7 @@ def say_hello(name="Ruby programmer", language="Ruby")
 end
 
 
-say_hello("Gabriela")
+say_hello
+
 
 
